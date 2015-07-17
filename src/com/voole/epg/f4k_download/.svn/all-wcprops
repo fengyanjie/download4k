@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/project/!svn/ver/229939/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download
+END
+UsbStateReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/224993/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/UsbStateReceiver.java
+END
+DisplayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/165090/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/DisplayManager.java
+END
+F4KDownManagerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/project/!svn/ver/229939/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/F4KDownManagerActivity.java
+END
+F4kAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/project/!svn/ver/182567/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/F4kAdapter.java
+END
+DetailDialogf4k.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/229939/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/DetailDialogf4k.java
+END
+DownLoadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/223937/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/DownLoadService.java
+END
+PlayListLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/198354/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/PlayListLocal.java
+END
+F4KListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/223937/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/F4KListActivity.java
+END
+IF4kPlayManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/project/!svn/ver/165063/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/IF4kPlayManager.java
+END
+F4kExitDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/205972/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/F4kExitDialog.java
+END
+TVProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/project/!svn/ver/165063/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/TVProgressDialog.java
+END

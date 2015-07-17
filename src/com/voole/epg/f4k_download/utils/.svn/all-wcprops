@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/project/!svn/ver/229071/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils
+END
+DownLoadFilm.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/project/!svn/ver/225066/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/DownLoadFilm.java
+END
+IDownloadControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/project/!svn/ver/205972/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/IDownloadControl.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/project/!svn/ver/191386/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/Log.java
+END
+StandardAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/project/!svn/ver/181570/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/StandardAuth.java
+END
+StandardProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/project/!svn/ver/216699/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/StandardProxy.java
+END
+Log2File.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/project/!svn/ver/191386/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/Log2File.java
+END
+DownController_new.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/project/!svn/ver/229071/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/DownController_new.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/project/!svn/ver/206002/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/Config.java
+END
+F4kDownResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/project/!svn/ver/225137/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/F4kDownResourceUtils.java
+END
+DLError.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/project/!svn/ver/205972/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/DLError.java
+END
+DownController.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/project/!svn/ver/223937/01Dev/VOOLEPLAYAPK/4K%E4%B8%8B%E8%BD%BD/SRC/DownloadF4k1.0/VooleEpgF4k/src/com/voole/epg/f4k_download/utils/DownController.java
+END
